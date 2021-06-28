@@ -1,0 +1,24 @@
+PODS:
+  - EasySwiftHook (3.2.0):
+    - libffi-iOS (~> 3.3.6-iOS)
+  - libffi-iOS (3.3.6-iOS)
+  - LookinServer (1.0.0)
+
+DEPENDENCIES:
+  - EasySwiftHook
+  - LookinServer
+
+SPEC REPOS:
+  trunk:
+    - EasySwiftHook
+    - libffi-iOS
+    - LookinServer
+
+SPEC CHECKSUMS:
+  EasySwiftHook: 010aa85ae565fcd34395e31c2feb9c44ae4a27e3
+  libffi-iOS: 2932b5feac77dc5de0eca4a72269e2c9928a26af
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
+
+PODFILE CHECKSUM: 874c3f805b0a40e78c76c3e5c553d0b1609fb930
+
+COCOAPODS: 1.10.0

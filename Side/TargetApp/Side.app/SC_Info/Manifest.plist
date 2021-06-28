@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Side.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/Alamofire.framework/SC_Info/Alamofire.sinf</string>
+		<string>Frameworks/Alertift.framework/SC_Info/Alertift.sinf</string>
+		<string>Frameworks/AssociatedValues.framework/SC_Info/AssociatedValues.sinf</string>
+		<string>Frameworks/CryptoSwift.framework/SC_Info/CryptoSwift.sinf</string>
+		<string>Frameworks/DeviceKit.framework/SC_Info/DeviceKit.sinf</string>
+		<string>Frameworks/FBLPromises.framework/SC_Info/FBLPromises.sinf</string>
+		<string>Frameworks/GoogleUtilities.framework/SC_Info/GoogleUtilities.sinf</string>
+		<string>Frameworks/IGListDiffKit.framework/SC_Info/IGListDiffKit.sinf</string>
+		<string>Frameworks/IGListKit.framework/SC_Info/IGListKit.sinf</string>
+		<string>Frameworks/Lottie.framework/SC_Info/Lottie.sinf</string>
+		<string>Frameworks/MMKV.framework/SC_Info/MMKV.sinf</string>
+		<string>Frameworks/MMKVCore.framework/SC_Info/MMKVCore.sinf</string>
+		<string>Frameworks/MarqueeLabel.framework/SC_Info/MarqueeLabel.sinf</string>
+		<string>Frameworks/NotificationBannerSwift.framework/SC_Info/NotificationBannerSwift.sinf</string>
+		<string>Frameworks/RPCircularProgress.framework/SC_Info/RPCircularProgress.sinf</string>
+		<string>Frameworks/ReusableKit.framework/SC_Info/ReusableKit.sinf</string>
+		<string>Frameworks/Rswift.framework/SC_Info/Rswift.sinf</string>
+		<string>Frameworks/SDWebImage.framework/SC_Info/SDWebImage.sinf</string>
+		<string>Frameworks/SPAlert.framework/SC_Info/SPAlert.sinf</string>
+		<string>Frameworks/ShimmerSwift.framework/SC_Info/ShimmerSwift.sinf</string>
+		<string>Frameworks/SnapKit.framework/SC_Info/SnapKit.sinf</string>
+		<string>Frameworks/SwifterSwift.framework/SC_Info/SwifterSwift.sinf</string>
+		<string>Frameworks/SwiftyStoreKit.framework/SC_Info/SwiftyStoreKit.sinf</string>
+		<string>Frameworks/Then.framework/SC_Info/Then.sinf</string>
+		<string>Frameworks/TrueTime.framework/SC_Info/TrueTime.sinf</string>
+		<string>Frameworks/nanopb.framework/SC_Info/nanopb.sinf</string>
+		<string>SC_Info/Side.sinf</string>
+	</array>
+</dict>
+</plist>
